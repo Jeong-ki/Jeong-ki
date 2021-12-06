@@ -1,16 +1,24 @@
-### Hi there 👋
+###  Jeong Kisoo
+Frontend Engineer 
 
-<!--
-**Jeong-ki/Jeong-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 강릉원주대학교 / 멀티미디어공학과
+- 멋쟁이사자처럼 프론트엔드 스쿨 1기
 
-Here are some ideas to get you started:
+Blog
+---
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jeongki)](https://velog.io/@jeongki) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+---
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=63655e"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=83acc9"/>
+<img src="https://img.shields.io/badge/react-0B2C4A?style=flat-square&logo=React&logoColor=40ccfb"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+
+Github
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-ki&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-ki&layout=compact&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeong-ki&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  

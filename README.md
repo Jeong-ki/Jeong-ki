@@ -1,8 +1,12 @@
 ###  Jeong Kisoo
 Frontend Engineer 
-
+---
+History
 - 강릉원주대학교 / 멀티미디어공학과
 - 멋쟁이사자처럼 프론트엔드 스쿨 1기
+
+Certificate
+- 정보처리기사
 
 Blog
 ---

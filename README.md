@@ -2,8 +2,12 @@
 
 <!-- Profile
 프론트엔드 개발자 정기수입니다! 
+
 사람들에게 필요하고 도움을 주는 재미있는 서비스를 만드는 것을 목표로 여러 프로젝트를 만들어 나가고 있습니다.
-프로젝트를 진행하면서 비효율적인 프로세스를 개선하고 어플리케이션 성능을 향상시키는데 기여한 경험이 있습니다. -->
+
+인터렉티브한 웹에 관심이 있어서 D3.js three.js를 사용한 프로젝트를 진행해보기도 하였습니다.
+
+프로젝트를 진행하면서 비효율적인 프로세스를 개선하고 어플리케이션 성능을 향상시키는데 기여한 경험이 있습니다. ~추가 멘트 -->
 
 History
 - 강릉원주대학교 / 멀티미디어공학과
@@ -20,7 +24,10 @@ Skills
 ---
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=63655e"/> <img src="https://img.shields.io/badge/react-0B2C4A?style=flat-square&logo=React&logoColor=40ccfb"/>
+<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=63655e"/> <img src="https://img.shields.io/badge/react-0B2C4A?style=flat-square&logo=React&logoColor=40ccfb"/> 
+
+<!-- <img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=40ccfb"/> -->
 
 Github
 ---

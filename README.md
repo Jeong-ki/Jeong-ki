@@ -21,10 +21,7 @@ Skills
 ---
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=63655e"/> <img src="https://img.shields.io/badge/react-0B2C4A?style=flat-square&logo=React&logoColor=40ccfb"/> 
-
-<!-- <img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=40ccfb"/> -->
+<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=63655e"/> <img src="https://img.shields.io/badge/react-0B2C4A?style=flat-square&logo=React&logoColor=40ccfb"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=40ccfb"/> <img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=Next.js&logoColor=ffffff"/> 
 
 Github
 ---
